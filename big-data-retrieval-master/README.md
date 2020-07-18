@@ -1,0 +1,1 @@
+Simplified repository focused on Big Data Retrieval.
